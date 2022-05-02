@@ -1,4 +1,4 @@
-### Jaymon's profile
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=000000&lines=Hi!+Nice+to+meet+you!;I'm+StomX!;I'm+Korean+web+developer.)](https://git.io/typing-svg)
 
 <!--
 **stomx/stomx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
