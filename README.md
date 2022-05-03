@@ -1,3 +1,10 @@
+<h2 align="center">👋 Hello! I'm StomX.</h2>
+
+- 🔭 I’m currently developing and operating on **EnterJobEdu service on Conexuslab**
+- 🌱 I’m currently learning **React.js, Next.js, etc**
+- 🤔 I’m looking for help with my job. please contact me!
+- 📫 How to reach me: StomX(Kakaotalk), stomx.jay.joo@gmail.com(email)
+
 <!--
 **stomx/stomx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
