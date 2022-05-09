@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 
   [![Jaymon's GitHub stats](https://github-readme-stats.vercel.app/api?username=stomx&count_private=true&show_icons=true&theme=dracula)](#)
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stomx&theme=dracula&hide_border=false&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+<!--   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stomx&theme=dracula&hide_border=false&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stomx&layout=compact&theme=dracula)](#)
-
+ -->
   <a href="https://opgc.me/#/users/stomx" target="_blank"><img src="https://api.opgc.me/githubs/users/stomx/tag/?theme=dracula" /></a>
   
   <!--START_SECTION:waka-->
