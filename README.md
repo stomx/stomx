@@ -1,10 +1,10 @@
 <h2 align="center">👋 Hello! I'm StomX.</h2>
 
 
-- 🔭 I’m currently developing and operating on **EnterJobEdu service on Conexuslab**
-- 🌱 I’m currently learning **React.js, Next.js, etc**
-- 🤔 I’m looking for help with my job. please contact me!
-- 📫 How to reach me: StomX(Kakaotalk), stomx.jay.joo@gmail.com(email)
+- 🔭 저는 커넥서스랩에서 엔터잡에듀를 개발, 운영하고 있습니다.
+- 🌱 저는 React.js, Next.js 등을 학습하고 있습니다.
+- 🤔 함께 일 할 사람을 찾고 있습니다. 연락부탁드립니다.
+- 📫 연락 방법: 카카오톡 아이디 - StomX, 이메일 - stomx.jay.joo@gmail.com
 
 --- 
 <!--
