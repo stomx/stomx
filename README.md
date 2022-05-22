@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm StomX.</h2>
+<h2 align="center">Hello! I'm StomX.</h2>
 
 
 - 🔭 저는 커넥서스랩에서 엔터잡에듀를 개발, 운영하고 있습니다.
